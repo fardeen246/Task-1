@@ -1,6 +1,6 @@
-# Cool Projects
+# Cool Electronics Projects
 
-## 1. Counter using 7 Segment Displayhttps://github.com/fardeen246/Task-1/tree/main
+## 1. Counter using 7 Segment Display
 
 ## 2.
 
