@@ -2,14 +2,50 @@
 
 ## 1. Counter using 7 Segment Display
 
-## 2.
+Components: 8051 Development Board, Seven Segment Display,Wires, Usb to Uart Converter
 
-## 3.
+Description: We use a 8051 MicroController to count digits from 0 to 9999, we also use a usb to uart converter which converts Computer bytes to uart signals.
 
-## 4.
+https://www.hackster.io/embedotronics-technologies/counting-from-0-to-9999-with-8051-using-7-segment-display-3cf151#toc-software-used-0
 
-## 5.
+## 2. Arduino Wireless Weather Station
 
-## 6.
+Components: Arduino Due, Arduino Nano, DHT22 Temperature Sensor,DS3231 Real Time Clock Module,nRF 24L01 Sparkfun Transciever Breakout,Breadboard, Wires, 	
+3.2" TFT HX8357C
+
+Description: First, we build a Transmitter/Sensor Circuit using Arduino Nano, Temperature Sensor to sense the temperature , NRF24L01 wireless module for wireless communication
+
+Next, we build the reciever using An Arduino Due, DS3231 Real Time Clock module to maintain accurate timekeeping even when device power is off, DHT22 Temperature and Humidity Sensor, NRF24L01+ Wireless module to communicate with the other arduino, 3.2" Color TFT display, breadboard, wires
+And our circuit is complete. Our circuit will sense and display the data on the TFT Display.
+
+
+## 3. ESP32 Door Alarm
+
+Components: ESP32, Accelerometer,Wires, Breadboard, RGB LED, Membrane Keypad
+
+Description: When we open the door, the accelerometer detects the movement (when the acceleration is above a certain threshold) and the ESP32 sends a mail to us notifying the same.
+
+If we want to disarm the alarm, we must enter the hardcoded password through the membrane keypad. To enable it back again, we pres the * button after entering hte password which will arm the alarm again after 10 seconds.
+
+https://www.hackster.io/SeanMabli2/esp32-door-alarm-b7636e
+
+## 4. Raspberry Pi Automated Plant Watering with Website
+
+Compomemts:  Raspberry Pi 3,Soil Moisture Sensor, Flexible Water Line, 5V Relay, 3-6V Mini Micro Submersible Pump, TOLI 120pcs Multicolored Dupont Wire, 5v Power Supply 
+
+Working:  First we setup a web server using a python script in rpi, when the soil moisture goes below, a certain level, we program the water supply to flow water. Additionly, we can turn on the water supply manually through our website
+
+https://www.hackster.io/ben-eagan/raspberry-pi-automated-plant-watering-with-website-8af2dc
+
+## 5. Hand Gesture Volume Control
+
+Components: 	
+Adafruit QT Py, SENSE: Multipurpose Sensor Development Board, Adafruit Monochrome 128x32 SPI OLED graphic display, SparkFun Qwiic Cable Kit	
+
+Working:Create an I2C bus between and OLED Display, Also, connect a Qwiic Cable between QTPYSAMD21 and SENSE. Now, whenever we move our hands in Anticlockwise direction, the sensor will sense it and increase the volume. Similarly for Clockwise movement, it decreases the volume.
+
+https://www.hackster.io/ZBoss1234/hand-gesture-volume-control-01b9f0#team
+
+## 6. 
 
 ## 7.
