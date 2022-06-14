@@ -42,6 +42,9 @@ Working:  First we setup a web server using a python script in rpi, when the soi
 
 https://www.hackster.io/ben-eagan/raspberry-pi-automated-plant-watering-with-website-8af2dc
 
+
+![proj4](https://user-images.githubusercontent.com/107299579/173634333-31d91c0e-25a6-4c32-a4a4-2ed5e0546387.png)
+
 ## 5. Hand Gesture Volume Control
 
 Components: 	
