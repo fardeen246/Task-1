@@ -20,6 +20,8 @@ And our circuit is complete. Our circuit will sense and display the data on the 
 
 https://www.hackster.io/nickthegreek82/arduino-wireless-weather-station-dad470
 
+https://github.com/fardeen246/Task-1/issues/1#issue-1271037647
+
 ## 3. ESP32 Door Alarm
 
 Components: ESP32, Accelerometer,Wires, Breadboard, RGB LED, Membrane Keypad
