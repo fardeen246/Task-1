@@ -20,6 +20,7 @@ And our circuit is complete. Our circuit will sense and display the data on the 
 
 https://www.hackster.io/nickthegreek82/arduino-wireless-weather-station-dad470
 
+![proj2](https://user-images.githubusercontent.com/107299579/173628399-8a38cd14-53a9-4820-a02c-d39340bcb00b.jpg)
 
 ## 3. ESP32 Door Alarm
 
