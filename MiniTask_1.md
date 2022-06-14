@@ -32,6 +32,8 @@ If we want to disarm the alarm, we must enter the hardcoded password through the
 
 https://www.hackster.io/SeanMabli2/esp32-door-alarm-b7636e
 
+![proj3](https://user-images.githubusercontent.com/107299579/173629654-f86c2ec6-530e-41ba-82f1-b52b840a3317.png)
+
 ## 4. Raspberry Pi Automated Plant Watering with Website
 
 Compomemts:  Raspberry Pi 3,Soil Moisture Sensor, Flexible Water Line, 5V Relay, 3-6V Mini Micro Submersible Pump, TOLI 120pcs Multicolored Dupont Wire, 5v Power Supply 
