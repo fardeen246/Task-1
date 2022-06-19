@@ -1,12 +1,12 @@
 # Cool Electronics Projects
 
-## 1. Counter using 7 Segment Display
+## 1. GPS Ambulance Tracker
 
-Components: 8051 Development Board, Seven Segment Display,Wires, Usb to Uart Converter
+Components: GPS Modem, Microcontroller, LCD Display, GSM Modem, MAX232, Keypad
 
-Working: We use a 8051 MicroController to count digits from 0 to 9999, we also use a usb to uart converter which converts Computer bytes to uart signals.
+Working: The GPS Modem tracks the vehicle's position and updates the data onto the lcd screen continously, the GSM Module is then used to send the ambulance location to a mobile device through sms, where you can see the ambulance's location in real time.
 
-https://www.hackster.io/embedotronics-technologies/counting-from-0-to-9999-with-8051-using-7-segment-display-3cf151#toc-software-used-0
+https://www.projectsof8051.com/gps-ambulance-tracker/
 
 ## 2. Arduino Wireless Weather Station
 
