@@ -35,10 +35,10 @@ GPS Modem --> 8051 MicroController --> GSM Modem --> Emergency Pushbuttons
 
 | Part of the Pipeline to break | Feasibility | Advantages | Disadvantages |
 | ----------------------------- | ----------- | ---------- | ------------- |
-| GPS Modem | Slightly costly so financial constraints might become an issue | | |
-| 8051 Microcontroller | | Has a dynamic and vast array of functionalitites | Coding is Hard |
-| GSM Module | |  | SMS is slower compared to voice chats |
-| Emergency Pushbuttons | Very easy to impement | Very easy to use | Can't send our own text as it is precoded |
+| GPS Modem | Comparitively costly so financial constraints might become an issue | | |
+| 8051 Microcontroller | Easily available in market | Has a dynamic and vast array of functionalitites | Coding is Hard |
+| GSM Module | SMTP Module code is a bit hard to learn  | SMS is a very cheap service | SMS is slower compared to voice chats |
+| Emergency Pushbuttons | Beginner friendly and easy to impement | Very easy to use | Can't send our own text as it is precoded |
 
 - We can improve this model with more versatile code which takes user input messages and sends them to the driver 
 
