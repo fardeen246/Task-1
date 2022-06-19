@@ -23,9 +23,25 @@ Accelerometer --> ESP32 --> Email Notification with video clip
 # GPS Ambulance Tracker
 
 ## Problem Statement 
-- To design an Ambulance GPS Tracker which sends real time location data to user via SMS
+- To design an Ambulance GPS Tracker which sends real time location data to user via SMS. 
 
 ## Ideation and Planning
-## Pipeline
-## Prototyping Phase
+- First, we enable the Ambulance with a GPS tracking device.
+- Then we use a GPS Modem to track the vehicle's coordinates and send this data through SMS using the microcontroller and GSM Modem.
+- Further, we use pushbuttons to send precoded emergency messages.
 
+## Pipeline
+GPS Modem --> 8051 MicroController --> GSM Modem --> Emergency Pushbuttons
+
+| Part of the Pipeline to break | Feasibility | Advantages | Disadvantages |
+| ----------------------------- | ----------- | ---------- | ------------- |
+| GPS Modem | Slightly costly so financial constraints might become an issue | | |
+| 8051 Microcontroller | | Has a dynamic and vast array of functionalitites | Coding is Hard |
+| GSM Module | |  | SMS is slower compared to voice chats |
+| Emergency Pushbuttons | Very easy to impement | Very easy to use | Can't send our own text as it is precoded |
+
+- We can improve this model with more versatile code which takes user input messages and sends them to the driver 
+
+## Prototyping Phase
+- In the First Prototype, we can use a simple setup with a breadboard and GPS Module.
+- Later we can improve the communiation service by sending user input messages.
