@@ -23,15 +23,8 @@
 ## GSM Modem
 - The GSM Modem is another source for improper SMS working.
 - The SIM Card of the Reciever's device might not be working properly.
-- 
+- Two types of GSM error codes, CMS Error Codes ==> Network Related Issues (or) CME Error Codes ==> Device Related Issues
 
-
-
-
-
-
-
-
-
-
-
+## Emergency Pushbuttons
+- If the emergency messages aren't send properly, the error will most probably be here.
+- The buttons might be broken or the Microcontroller code for sending thme might have bugs.
