@@ -1,13 +1,13 @@
 # GPS Ambulance Tracker
 ## Troubleshooting 
--The sequence of working of the Project is: <br>
+- The sequence of working of the Project is: <br>
  GPS Modem --> 8051 MicroController --> GSM Modem --> Emergency Pushbuttons <br>
--If there are erors in the project, then it will be in one of the following components.
--Also, we follow the same order while checking for bugs, as the working of one component depends on the working of the previous componnent.
--First, we turn on the power supply and check whether the components are getting powered up using a tester.
+- If there are erors in the project, then it will be in one of the following components.
+- Also, we follow the same order while checking for bugs, as the working of one component depends on the working of the previous componnent.
+- First, we turn on the power supply and check whether the components are getting powered up using a tester.
 - Also, the components might have internal shortages
--Then check for loose connections in the wires.
--Check the Microcontroller code for any errors.
+- Then check for loose connections in the wires.
+- Check the Microcontroller code for any errors.
 
 ## GPS Modem
 - The GPS Tracker System might not be working properly, which can give us wrong location coordinates.
